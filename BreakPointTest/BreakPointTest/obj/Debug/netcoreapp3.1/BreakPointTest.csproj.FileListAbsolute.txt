@@ -1,0 +1,13 @@
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\bin\Debug\netcoreapp3.1\BreakPointTest.exe
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\bin\Debug\netcoreapp3.1\BreakPointTest.deps.json
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\bin\Debug\netcoreapp3.1\BreakPointTest.runtimeconfig.json
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\bin\Debug\netcoreapp3.1\BreakPointTest.runtimeconfig.dev.json
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\bin\Debug\netcoreapp3.1\BreakPointTest.dll
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\bin\Debug\netcoreapp3.1\BreakPointTest.pdb
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\obj\Debug\netcoreapp3.1\BreakPointTest.csprojAssemblyReference.cache
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\obj\Debug\netcoreapp3.1\BreakPointTest.AssemblyInfoInputs.cache
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\obj\Debug\netcoreapp3.1\BreakPointTest.AssemblyInfo.cs
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\obj\Debug\netcoreapp3.1\BreakPointTest.csproj.CoreCompileInputs.cache
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\obj\Debug\netcoreapp3.1\BreakPointTest.dll
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\obj\Debug\netcoreapp3.1\BreakPointTest.pdb
+C:\Users\ŁukaszCydejko\source\repos\BreakPointTest\BreakPointTest\obj\Debug\netcoreapp3.1\BreakPointTest.genruntimeconfig.cache
